@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1196413567151394869/1218631511126053045/09e97d7269fd7c0c26b939182efc3d15.jpg?ex=66085e09&is=65f5e909&hm=c2f7ce128a8c54ef2b730aed642c453a318fcd592dc9a337736f4434d40585d8&"  />
-
 ###
 
 <div align="left">
