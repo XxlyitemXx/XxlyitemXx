@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxlyitemxx" alt="xxlyitemxx" /></a> </p>
 
-- 🔭 I’m currently working on [An Discord Bot](https://github.com/XxlyitemXx/KatV5-Main)
+- 🔭 I’m currently working on A Random things
 
 - 🌱 I’m currently learning **Tailwind**
 
