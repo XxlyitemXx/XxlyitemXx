@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1224415546561269812/1258373235154747543/ssstwitter.com_1720038570524.gif?ex=66925ae6&is=66910966&hm=e8f6247655cb75aa93dbb0cb9365ef9aed68b2d5207f916d203e0d0ff8e82b5f&"  />
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1224415546561269812/1254049433750868008/tS4SrcA.gif?ex=6692720c&is=6691208c&hm=e338db4bab0ec6434a362751166dca5daadff2965bdd135213424f6599d1909e&"  />
 
 ###
 
@@ -56,10 +56,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/xxlyitemxx/xxlyitemxx/output/snake.svg" alt="Snake animation" />
-
-###
