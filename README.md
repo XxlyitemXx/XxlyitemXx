@@ -8,11 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xxlyitemxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1224415546561269812/1254049433750868008/tS4SrcA.gif?ex=6692720c&is=6691208c&hm=e338db4bab0ec6434a362751166dca5daadff2965bdd135213424f6599d1909e&"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
