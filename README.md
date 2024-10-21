@@ -1,4 +1,3 @@
-<h2 align="center">Hi 👋! My name is Kat and I'm a Python developer</h2>
 
 ###
 
