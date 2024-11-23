@@ -71,4 +71,6 @@
 
 ###
 
+![](https://github-trophies.vercel.app/?username=xxlyitemxx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
