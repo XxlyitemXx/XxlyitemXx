@@ -5,6 +5,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=xxlyitemxx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xxlyitemxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+<div align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=xxlyitemxx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph](https://cdn.discordapp.com/attachments/1322565739789680722/1368846509063278722/Video_GIF.gif?ex=6819b527&is=681863a7&hm=42dc9b7a2a7e55052a5ac312d424ed47c842444a156db49881bba0732ff37d16&)"  />
+</div>
 
 ###
 
